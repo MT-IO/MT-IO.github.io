@@ -2188,7 +2188,7 @@ html:not(.dark) .VPImage.dark[data-v-8426fc1a] {
 .name[data-v-da5d1713],.text[data-v-da5d1713] {
     max-width: 392px;
     letter-spacing: -.4px;
-    line-height: 40px;
+    line-height: 58px;
     font-size: 32px;
     font-weight: 700;
     white-space: pre-wrap
@@ -2219,7 +2219,7 @@ html:not(.dark) .VPImage.dark[data-v-8426fc1a] {
 
 @media (min-width: 960px) {
     .name[data-v-da5d1713],.text[data-v-da5d1713] {
-        line-height:64px;
+        line-height: 90px;
         font-size: 56px
     }
 
