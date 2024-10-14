@@ -2067,7 +2067,7 @@ html:not(.dark) .vp-code-dark {
 .VPButton.brand[data-v-c1c5efc1] {
     border-color: var(--vp-button-brand-border);
     color: var(--vp-button-brand-text);
-    background-color: var(--vp-button-brand-bg)
+    background-color: #e66916;
 }
 
 .VPButton.brand[data-v-c1c5efc1]:hover {
